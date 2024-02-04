@@ -1,0 +1,54 @@
+@import "./media/xl.css";
+@import "./media/lg.css";
+@import "./media/md.css";
+@import "./media/sm.css";
+@import "./media/xs.css";
+
+
+/* 
+
+#show,#close{
+    display: block;
+}
+
+label[for=show]{
+width: 200px;
+background-color: darkgoldenrod;
+height: 60px;
+display: block;
+text-align: center;
+line-height: 60px;
+border-radius: 5px;
+cursor: pointer;
+}
+
+div.modal{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.419);
+    position: absolute;
+    left: -100%;
+    top: 0;
+    transition: 400ms;
+
+}
+#show:checked ~ div.modal {
+    left: 0;
+    position: absolute;
+}
+div.modal>label[for=close]{
+    width: 50px;
+background-color: rgb(184, 11, 11);
+height: 50px;
+display: block;
+text-align: center;
+line-height: 60px;
+position: absolute;
+top: 0;
+right: 0;
+font-size: 36px;
+cursor: pointer;
+}
+#close:checked ~ div.modal {
+left: -100%;
+} */
